@@ -10,4 +10,4 @@ Part of speech tagging is the process of determining the syntactic category of a
 In this notebook, we'll use the Pomegranate library to build a hidden Markov model for part of speech tagging using a "universal" tagset. Hidden Markov models have been able to achieve >96% tag accuracy with larger tagsets on realistic text corpora. Hidden Markov models have also been used for speech recognition and speech generation, machine translation, gene recognition for bioinformatics, and human gesture recognition for computer vision, and more.
 
 ## Project 3: Sentiment Analysis with an RNN
-In this notebook, we'll implement a recurrent neural network that performs sentiment analysis. Using an RNN rather than a feedfoward network is more accurate since we can include information about the sequence of words. Here we'll use a dataset of movie reviews, accompanied by labels.
+In this notebook, we'll implement a recurrent neural network that performs sentiment analysis. Using an RNN rather than a feedforward network is more accurate since we can include information about the sequence of words. Here we'll use a dataset of movie reviews, accompanied by labels.
